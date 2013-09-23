@@ -1,0 +1,6 @@
+<Tracecase Name="trace_test">
+  <CodeFile Name="calculator.cpp" RelativePath="calculator/calculator/calculator.cpp">
+    <Tracepoint Name="line 102" Doc="51te04-cheng-proof.pdf" Line="102" />
+    <Tracepoint Name="line 145" Doc="" Line="145" />
+  </CodeFile>
+</Tracecase>

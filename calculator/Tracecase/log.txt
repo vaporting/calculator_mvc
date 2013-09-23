@@ -1,0 +1,14 @@
+2012.08.19,16:32 => Tracecase: trace_test loaded.
+2012.08.19,16:32 => Set Current Tracecase: trace_test
+2012.08.19,16:32 => Create Tracecase: trace_test
+2012.08.19,16:37 => Add Tracepoint: calculator.cpp 102 to trace_test
+2012.08.19,16:56 => Tracecase: trace_test loaded.
+2012.08.19,16:56 => Set Current Tracecase: trace_test
+2012.08.19,16:57 => Add Tracepoint: calculator.cpp 145 to trace_test
+2012.08.19,17:02 => Link document: 51te04-cheng-proof.pdf to Tracepoint: line 102
+2012.08.19,17:05 => Tracecase: trace_test loaded.
+2012.08.19,17:05 => Set Current Tracecase: trace_test
+2012.08.21,16:58 => Tracecase: trace_test loaded.
+2012.08.21,16:58 => Set Current Tracecase: trace_test
+2012.08.21,17:00 => Tracecase: trace_test loaded.
+2012.08.21,17:00 => Set Current Tracecase: trace_test
